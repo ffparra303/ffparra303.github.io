@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Hi!"
-excerpt: "Felipe Parra"
+excerpt: "Felipe Parra-Escobar"
 author_profile: true
 redirect_from: 
   - /about/
