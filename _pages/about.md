@@ -15,8 +15,6 @@ I am an applied microeconomist with broad research interests in development, lab
 I am on the 2024/2025 economics job market.
 
 Upcoming presentations:
-- LACEA-LAMES 2024, Montevideo, Uruguay.
-- APPAM 2024, Washington, DC.
-- SEA 2024, Washington, DC.
+- West Point Social Sciences Seminar, West Point, NY
 
 
