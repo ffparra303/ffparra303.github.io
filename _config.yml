@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Felipe Parra-Escobar"
 title_separator          : "-"
 name                     : &name "Felipe Parra-Escobar"
-description              : &description "Ph.D. Candidate, UW-Madison"
+description              : &description "Postdoctoral Research Associate, Brown University"
 url                      : https://ffparra303.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ffparra303/ffparra303.github.io"
@@ -24,10 +24,10 @@ author:
   avatar           : "ParraFelipe_Website.jpg"
   name             : "Felipe Parra-Escobar"
   bio              : 
-  location         : "Madison, WI"
+  location         : "Providence, RI"
   employer         : 
   uri              : # URL
-  email            : "parraescobar@wisc.edu" 
+  email            : "freddy_felipe_parra_escobar@brown.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
