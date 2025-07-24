@@ -23,7 +23,7 @@ Competition and Product Quality: Experimental Evidence from Kenya [[Pre-registry
 (with [Joshua W. Deutschmann](https://jwdeutschmann.com), Jeremy Foltz, Timothy Njagi, and [Emilia Tjernström](https://emiliatjernstrom.com))<br>
 *Second follow-up data collection in progress*
 
-Boosting Demand in Markets for Experience Goods: Experimental Evidence on a Quality-Conscious Seller's Entry in Kenya [[Pre-registry](https://www.socialscienceregistry.org/trials/11135)]<br>
+Boosting Adoption of Agricultural Inputs: Lab-in-the-Field Evidence from the Entry of a High-Quality Seller [[Pre-registry](https://www.socialscienceregistry.org/trials/11135)]<br>
 (with [Joshua W. Deutschmann](https://jwdeutschmann.com) and [Emilia Tjernström](https://emiliatjernstrom.com))
 *Data collection finished! Analyzing preliminary results*
 
