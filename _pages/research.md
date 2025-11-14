@@ -27,8 +27,8 @@ Boosting Adoption of Agricultural Inputs: Lab-in-the-Field Evidence from the Ent
 (with [Joshua W. Deutschmann](https://jwdeutschmann.com) and [Emilia Tjernström](https://emiliatjernstrom.com))
 *Data collection finished! Analyzing preliminary results*
 
-Using Local Soldiers to Provide Security amid Civil Conflicts: Evidence from *Soldados de Mi Pueblo*
+Using Local Soldiers to Provide Security amid Civil Conflicts: Evidence from *Soldados de Mi Pueblo*<br>
 (with [Robert Blair](https://robblair.net), Gabriela Ramírez, and [Michael Weintraub](https://www.miweintraub.com))
 
-Anti-Climate Mayors and Violence Towards Environmental Leaders in the Brazilian Amazon
+Anti-Climate Mayors and Violence Towards Environmental Leaders in the Brazilian Amazon<br>
 (with [Robert Blair](https://robblair.net), Mariana Carvalho, and Débora Duque)
